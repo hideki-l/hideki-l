@@ -1,5 +1,8 @@
+### About me
+Pursuing a bachelor's in CS at Université Libre de Bruxelles. Proficient in various programming languages. I work well in teams and I'm always eager to learn new skills.
+
 ### Contact
-LinkedIN: www.linkedin.com/in/hac-le-5479452a5
+LinkedIn: www.linkedin.com/in/hac-le-5479452a5
 
 Location: Belgium
 
